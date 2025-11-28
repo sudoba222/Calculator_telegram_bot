@@ -7,10 +7,13 @@ venv/
 
 # Bytecode files
 __pycache__/
+__pycache__
 *.pyc
 
 # IDE folders
 .idea/
+.idea
+
 .vscode/
 
 # Logs
